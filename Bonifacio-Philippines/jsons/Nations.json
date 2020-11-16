@@ -1,0 +1,25 @@
+[
+	{
+		"name": "Philippines",
+		"leaderName": "Andres Bonifacio",
+		"adjective": ["Filipino"],
+		"startBias": ["Coast"],
+        "preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Greetings, Supremo Andres Bonifacio. Your great intellect and strong understanding of the Filipino plight allowed you to forge numerous successful victories against the Spaniards and the Americans.",
+		"startIntroPart2": "Most courageous and magnanimous Supremo, Philippines once again requires the service of a compassionate and determined leader, one who can reunite the country and establish a strong foundation for the years to come. Can you establish your nation through strong civil institutions, or will you work to conquer your enemies through the use of force? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "Your ways have been revealed. Time to fight for what is ours!",
+		"attacked": "This insolence will cost you dearly!",
+		"defeated": "The Filipino people is worth dying for",
+		"introduction": "Welcome to the Philippines. I am Supremo Andres Bonifacio.",
+		"neutralHello": "Greetings.",
+		"hateHello": "Hello! What do you want?",
+		"tradeRequest": "This offer won't be valid for a lot of time, think about it.",
+		"outerColor": [139,0,0],
+		"innerColor": [0,0,0],
+		"uniqueName": "Sovereign Tagalog Nation",
+		"uniques": ["Starts with [Agriculture]","[+1 Production] from every [Farm]","+[100]% [Food] from every [Palace]"],
+		"cities": ["Manila","Cavite","Laguna","Batangas","San Fernando","Santa Cruz","Palayan","Baguio","Vigan","Legazpi","Puerto Princesa","Iloilo","Tacloban","Zamboanga",
+			"Roxas","Tuguegarao","Iligan","General Santos","Quezon City","Calbayog","Bacolod","Dapitan","Tagaytay","Cagayan de Oro","Dagupan","Dumaguete"]
+	}        	
+]

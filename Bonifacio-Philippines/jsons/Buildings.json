@@ -1,0 +1,14 @@
+
+    {
+        "name": "Malacanang Palace",
+        "replaces": "Palace",
+        "uniqueTo": "Philippines",
+        "isNationalWonder": true,
+        "production": 4,
+        "science": 4,
+        "gold": 4,
+        "cityStrength": 4,
+        "culture": 2,
+        "cost": 1,
+        "uniques": ["Indicates the capital city"]
+    }
