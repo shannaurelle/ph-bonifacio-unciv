@@ -21,4 +21,13 @@ Gives additional 2 happiness and 2 culture compared to the Palace.
 Replaces Rifleman. Shock I promotion, +25% combat bonus in hill,
 +25% combat bonus in forest, and +25% combat bonus in jungle
 
+## Suggestions? Bugs?
+
+Feel free to add issues in the repository. Note that it might take me a week or two to solve them.
+
+## Credits
+
+All credits are written at credits.txt
+
+
 
