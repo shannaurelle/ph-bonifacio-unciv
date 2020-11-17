@@ -8,7 +8,7 @@ Leader: Andres Bonifacio
 
 Title: Supreme Leader of the Katipunan
 
-#### Unique Bonus: Sovereign Nation of the Tagalogs
+#### Unique Bonus: Sovereign Tagalog Nation
 
 +1 Production from Farm, +25% Food Bonus from Palace
 
