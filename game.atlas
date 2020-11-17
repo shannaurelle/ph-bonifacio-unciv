@@ -1,19 +1,19 @@
 
 game.png
-size: 4096,128
+size: 256,128
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 NationIcons/Philippines
   rotate: false
-  xy: 0, 15
+  xy: 6, 6
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Katipunero
   rotate: false
-  xy: 80, 15
+  xy: 106, 6
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
