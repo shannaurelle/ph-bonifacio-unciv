@@ -4,11 +4,11 @@
         "replaces": "Palace",
         "uniqueTo": "Philippines",
         "isNationalWonder": true,
-        "production": 4,
-        "science": 4,
+        "production": 3,
+        "science": 3,
         "gold": 4,
-        "cityStrength": 4,
-        "culture": 2,
+        "happiness": 2,
+        "culture": 4,
         "cost": 1,
         "uniques": ["Indicates the capital city"]
     }
