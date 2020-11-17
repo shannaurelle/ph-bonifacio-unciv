@@ -2,6 +2,7 @@
 	{
 		"name": "Katipunero",
 		"unitType": "Melee",
+		"replaces": "Rifleman",
 		"uniqueTo":"Philippines",
 		"movement": 2,
 		"strength": 34,
