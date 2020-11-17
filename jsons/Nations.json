@@ -16,7 +16,7 @@
 		"hateHello": "Hello! What do you want?",
 		"tradeRequest": "This offer won't be valid for a lot of time, think about it.",
 		"outerColor": [139,0,0],
-		"innerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"uniqueName": "Sovereign Tagalog Nation",
 		"uniques": ["[+1 Production] from every [Farm]","+[100]% [Food] from every [Palace]"],
 		"cities": ["Manila","Cavite","Laguna","Batangas","San Fernando","Santa Cruz","Palayan","Baguio","Vigan","Legazpi","Puerto Princesa","Iloilo","Tacloban","Zamboanga",
