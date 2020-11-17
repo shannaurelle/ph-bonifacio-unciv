@@ -6,14 +6,14 @@ filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 NationIcons/Philippines
   rotate: false
-  xy: 2, 26
+  xy: 0, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Katipunero
   rotate: false
-  xy: 104, 26
+  xy: 102, 26
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

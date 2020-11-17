@@ -2,6 +2,7 @@
 	{
 		"name": "Katipunero",
 		"unitType": "Melee",
+		"uniqueTo":"Philippines",
 		"movement": 2,
 		"strength": 34,
 		"cost": 225,
