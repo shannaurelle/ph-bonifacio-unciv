@@ -2,13 +2,13 @@
     {
         "name": "IRRI",
         "science": 3,
-        "percentStatBonus": {"science": 20, "food": 10},
+        "percentStatBonus": {"science": 33, "food": 10},
         "specialistSlots": {"Scientist": 3},
         "replaces": "University",
         "uniqueTo": "Philippines",
         "maintenance": 3,
         "hurryCostModifier": 25,
-        "uniques": ["[+2 Science] from every [Farm]"],
+        "uniques": ["[+2 Science] from [Jungle] tiles in this city"],
         "requiredTech": "Education"
     }
 ]
