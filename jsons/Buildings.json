@@ -1,11 +1,11 @@
 [
     {
         "name": "IRRI",
+        "science": 3,
+        "specialistSlots": {"Scientist": 1},
+        "percentStatBonus": {"science": 10, "food": 10},
         "requiredBuilding": "University",
         "uniqueTo": "Philippines",
-        "percentStatBonus": {"science": 10, "food": 10},
-        "resourceBonusStats": {"science": 3},
-        "cost": 120,
         "maintenance": 3,
         "hurryCostModifier": 125,
         "uniques": ["[+2 Science] from every [Farm]"],
