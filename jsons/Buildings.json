@@ -1,16 +1,19 @@
 [
     {
-        "name": "Malacanang Palace",
-        "replaces": "Palace",
+        "name": "International Rice Research Institute",
+        "requiredBuilding": "University",
+        "requiresTech": "Education",
         "uniqueTo": "Philippines",
-        "isNationalWonder": true,
-        "production": 3,
+        "isNationalWonder": false,
+        "percentStatBonus": {"science": 10, "food": 10},
+        "production": 0,
         "science": 3,
-        "gold": 4,
-        "happiness": 2,
-        "culture": 4,
-        "cost": 1,
-        "uniques": ["Indicates the capital city"]
+        "gold": 0,
+        "happiness": 0,
+        "culture": 0,
+        "cost": 120,
+        "maintenance": 3,
+        "hurryCostModifier": 100,
+        "uniques": ["[+1 Science] from every [Farm]"]
     }
 ]
-    

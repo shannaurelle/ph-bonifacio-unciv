@@ -10,12 +10,12 @@ Title: Supreme Leader of the Katipunan
 
 #### Unique Bonus: Sovereign Tagalog Nation
 
-+1 Production from Farm, +20% Food Bonus from Palace
++1 Production from Farm
 
-#### Unique Building: Malacanang Palace
+#### Unique Building: International Rice Research Institute
 
-Gives additional 2 happiness and 3 culture compared to the Palace.
-However, this removes the initial 2 city strength. 
+Unlocked on Education. Requires University.
++10% food,+10% Science, and +2 Science from every Farm.
 
 #### Unique Unit: Katipunero
 
