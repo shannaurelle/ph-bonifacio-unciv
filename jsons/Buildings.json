@@ -1,6 +1,6 @@
 [
     {
-        "name": "International Rice Research Institute",
+        "name": "IRRI",
         "requiredBuilding": "University",
         "requiresTech": "Education",
         "uniqueTo": "Philippines",
