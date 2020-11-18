@@ -10,11 +10,12 @@ Title: Supreme Leader of the Katipunan
 
 #### Unique Bonus: Sovereign Tagalog Nation
 
-+1 Production from Farm, +25% Food Bonus from Palace
++1 Production from Farm, +20% Food Bonus from Palace
 
 #### Unique Building: Malacanang Palace
 
-Gives additional 2 happiness and 2 culture compared to the Palace.
+Gives additional 2 happiness and 3 culture compared to the Palace.
+However, this removes the initial 2 city strength. 
 
 #### Unique Unit: Katipunero
 
