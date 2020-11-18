@@ -18,9 +18,9 @@ UnitIcons/Katipunero
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/MalacanangPalace
+BuildingIcons/Malacanang Palace
   rotate: false
-  xy: 206, 22
+  xy: 204, 22
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
