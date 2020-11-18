@@ -7,7 +7,7 @@
         "requiredBuilding": "University",
         "uniqueTo": "Philippines",
         "maintenance": 3,
-        "hurryCostModifier": 125,
+        "hurryCostModifier": 100,
         "uniques": ["[+2 Science] from every [Farm]"],
         "requiredTech": "Education"
     }
