@@ -2,18 +2,13 @@
     {
         "name": "IRRI",
         "requiredBuilding": "University",
-        "requiresTech": "Education",
         "uniqueTo": "Philippines",
-        "isNationalWonder": false,
         "percentStatBonus": {"science": 10, "food": 10},
-        "production": 0,
-        "science": 3,
-        "gold": 0,
-        "happiness": 0,
-        "culture": 0,
+        "resourceBonusStats": {"science": 3},
         "cost": 120,
         "maintenance": 3,
-        "hurryCostModifier": 100,
-        "uniques": ["[+2 Science] from every [Farm]"]
+        "hurryCostModifier": 125,
+        "uniques": ["[+2 Science] from every [Farm]"],
+        "requiredTech": "Education"
     }
 ]
