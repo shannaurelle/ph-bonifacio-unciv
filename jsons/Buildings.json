@@ -3,6 +3,7 @@
         "name": "IRRI",
         "science": 3,
         "percentStatBonus": {"science": 20, "food": 10},
+        "specialistSlots": {"Scientist": 3},
         "replaces": "University",
         "uniqueTo": "Philippines",
         "maintenance": 3,
