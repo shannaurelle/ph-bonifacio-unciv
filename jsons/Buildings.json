@@ -2,16 +2,18 @@
     {
         "name": "International Rice Research Institute",
         "requiredBuilding": "University",
+        "requiresTech": "Education",
         "uniqueTo": "Philippines",
         "isNationalWonder": false,
+        "percentStatBonus": {"science": 10, "food": 10},
         "production": 0,
         "science": 3,
         "gold": 0,
         "happiness": 0,
         "culture": 0,
-        "cost": 100,
+        "cost": 120,
         "maintenance": 3,
         "hurryCostModifier": 100,
-        "uniques": ["+[10]% food from every [University]","[+1 Science] from every [Farm]"]
+        "uniques": ["[+1 Science] from every [Farm]"]
     }
 ]
