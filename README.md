@@ -12,7 +12,7 @@ Title: Supreme Leader of the Katipunan
 
 +1 Production from Farm
 
-#### Unique Building: International Rice Research Institute
+#### Unique Building: IRRI (International Rice Research Institute)
 
 Unlocked on Education. Requires University.
 +10% food,+10% Science, and +2 Science from every Farm.
