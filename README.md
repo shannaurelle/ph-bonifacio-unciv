@@ -26,7 +26,7 @@ Replaces Rifleman. Shock I promotion, +25% combat bonus in hill,
 
 Feel free to add issues in the repository. Note that it might take me a week or two to solve them.
 
-## Credits
+## Credits  
 
 All credits are written at credits.txt
 
