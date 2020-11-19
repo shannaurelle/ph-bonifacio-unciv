@@ -14,7 +14,7 @@ Title: Supreme Leader of the Katipunan
 
 #### Unique Building: IRRI (International Rice Research Institute)
 
-Unlocked on Education. Requires University.
+Unlocked on Education. Replaces University.
 +10% food,+25% Science, and +2 Science from Farm tiles.
 
 #### Unique Unit: Katipunero
