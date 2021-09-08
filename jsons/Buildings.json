@@ -8,7 +8,7 @@
         "uniqueTo": "Philippines",
         "maintenance": 3,
         "hurryCostModifier": 25,
-        "uniques": ["[+2 Science] from [Farm] tiles in this city"],
+        "uniques": ["[+2 Science] from [Farm] tiles [in this city]"],
         "requiredTech": "Education"
     }
 ]
