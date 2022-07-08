@@ -3,6 +3,7 @@
 		"name": "Philippines",
 		"leaderName": "Andres Bonifacio",
 		"adjective": ["Filipino"],
+		"favoredReligion": "Christianity",
 		"startBias": ["Coast"],
         "preferredVictoryType": "Scientific",
 

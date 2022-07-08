@@ -1,26 +1,40 @@
 
 game.png
-size: 384,128
+size: 512, 512
 format: RGBA8888
-filter: MipMapLinearLinear,MipMapLinearLinear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Philippines
+BuildingIcons/IRRI
   rotate: false
-  xy: 6, 22
+  xy: 4, 112
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Andres Bonifacio
+  rotate: false
+  xy: 4, 220
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+NationIcons/Philippines
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Katipunero
+  rotate: false
+  xy: 112, 180
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
 UnitIcons/Katipunero
   rotate: false
-  xy: 106, 22
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/IRRI
-  rotate: false
-  xy: 206, 22
+  xy: 262, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
