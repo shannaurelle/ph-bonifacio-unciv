@@ -18,7 +18,6 @@
 		"tradeRequest": "This offer won't be valid for a lot of time, think about it.",
 		"outerColor": [139,0,0],
 		"innerColor": [255,255,255],
-                "favoredReligion": "Christianity",
 		"uniqueName": "Sovereign Tagalog Nation",
 		"uniques": ["[+1 Production] from every [Farm]"],
 		"cities": ["Manila","Cavite","Laguna","Batangas","San Fernando","Santa Cruz","Palayan","Pasay","Baguio","Vigan","Legazpi","Puerto Princesa",
