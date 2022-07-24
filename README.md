@@ -19,8 +19,7 @@ Unlocked on Education. Replaces University.
 
 #### Unique Unit: Katipunero
 
-Replaces Rifleman. Shock I promotion, +25% combat bonus in hill,
-+25% combat bonus in forest, and +25% combat bonus in jungle
+Replaces Rifleman. Woodsman promotion, production cost of 180 (regular rifleman cost is 225), while base combat strength reduced to 28 from 34.
 
 ## Suggestions? Bugs?
 
