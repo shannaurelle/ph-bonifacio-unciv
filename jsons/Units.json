@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Katipunero",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo":"Philippines",
 		"movement": 2,
