@@ -20,8 +20,8 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Sovereign Tagalog Nation",
 		"uniques": ["[+1 Production] from every [Farm]"],
-		"cities": ["Manila","Cavite","Bulacan","Santa Cruz","Batangas","Bacolor","Cabanatuan","Tarlac","Balanga","Morong","Tayabas","Daet","Nueva Cáceres","Albay","Sorsogon","Binangonan",
-			"Iba","Dagupan","Baler","Bayombong","La Trinidad","Ilo-ilo","Tacloban","Zamboanga","Roxas","Tuguegarao","Iligan","General Santos","Quezon City","Naga","Calbayog",
+		"cities": ["Manila","Cavite","Bulácan","Santa Cruz","Batangas","Bacolor","Cabanatuan","Tárlac","Balanga","Mórong","Tayabas","Daet","Nueva Cáceres","Albay","Sorsogon","Binangonan",
+			"Iba","Dagupan","Baler","Bayombong","La Trinidad","San Fernando","Ilagan","Ilo-ilo","Tacloban","Zamboanga","Roxas","Tuguegarao","Iligan","General Santos","Quezon City","Naga","Calbayog",
 		    "Bacolod","Dapitan","Tagaytay","Cagayan de Oro","Dumaguete","Maasin","Cadiz","Dipolog","Caloocan","Lucena","La Carlota"]
 	}        	
 ]
